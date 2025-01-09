@@ -36,3 +36,15 @@ THIS SOFTWARE AND ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS" WITHOUT WARRANTY
 ## Additional Files
 
 Over time, you'll add new files, such as logs and journal entires, new tests, and so on. It will vary based upon your specific needs. 
+
+# COMMUNICATION
+
+You will need to learn to communicate with the chatbot as well as human doctors. Both can be frustrating. 
+
+1. LLMs, like the data they are trained on, can get stuck in ruts. Sometimes that means you need to start a new conversation or ask the AI to "step back and let's try something else" or "explain to my why you think this is important."
+2. Remember, you're LEARNING first and foremost. This is why solving and managing chronic health issues takes such a long time. It is not just a complex problem to solve, it's an entire discipline that you need to become an expert in. YOU WILL BECOME YOUR OWN BEST ADVOCATE AND EXPERT. That means you need to learn a lot - often more than the specialist medical professionals you will be working with.
+3. You will need to learn to communicate with human doctors on their terms. Every provider you speak to is human, meaning they have blind spots, favorite preferences, and make mistakes. If one provider is not working, find another. There's a reason "getting a second or third opinion" is such a common practice. This is tacit admission that the current medical establishment is not perfect.
+
+# MODIFICATIONS
+
+You might find that this initial framework is not complete or adequate. You are free to modify any component of this framework for your own personal projects. Your project WILL evolve over time. 
