@@ -32,10 +32,14 @@ THIS SOFTWARE AND ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS" WITHOUT WARRANTY
 1. ***Full Timeline.*** Construct a full timeline of your chronic issue. Provide as much detail as possible, including all medical events and symptoms, even if they don't seem relevant. A rule of thumb with chronic health issues is this: **Assume that any symptom or event is relevant until proven otherwise.**
 2. ***Lab Work.*** Document all medical tests and diagnosis, including dates. This might need to be separate files.
 3. ***Symptoms.*** Separately, document all symptoms you have experienced or are experiencing (include dates, severity, etc).
+4. ***Demographics.*** Provide you age, name, sex, location, and other demographic data (family status, living arrangements) as this can provide helpful context.
 
 ## Additional Files
 
 Over time, you'll add new files, such as logs and journal entires, new tests, and so on. It will vary based upon your specific needs. 
+
+- Journal entries could include relevant events, depending on your struggles, such as DIET, EXERCISE, and SLEEP (these are crucial to managing health and chronic conditions)
+- You can also save bits of conversations you have with chatbots into the files (I recommend against saving the entire conversations as that will take up a lot of space)
 
 # COMMUNICATION
 
